@@ -1,14 +1,3 @@
 {
-  "hinweise": [
-    {
-      "von": "2026-11-23",
-      "bis": "2026-11-23",
-      "text": "Test: Bitte ignorieren (Zeile 1)"
-    },
-    {
-      "von": "2026-11-23",
-      "bis": "2026-11-23",
-      "text": "Test: Bitte ignorieren (Zeile 2)"
-    }
-  ]
+  "hinweis": null
 }
