@@ -1,3 +1,10 @@
 {
-  "hinweis": null
+  "hinweise": [
+    {
+      "art": "geschlossen",
+      "von": "2026-11-24",
+      "bis": "2026-11-24",
+      "text": "Die offene Werkstatt fällt am Di, 24.11. aus."
+    }
+  ]
 }
